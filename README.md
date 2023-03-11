@@ -1,1 +1,1 @@
-# Sentiment analysis of Amazon reviews using MLP
+# Sentiment analysis of Amazon reviews using MLP classifier
