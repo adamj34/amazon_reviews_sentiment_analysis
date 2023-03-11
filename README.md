@@ -1,1 +1,1 @@
-# amazon_sentiment_analysis
+# Sentiment analysis of Amazon reviews using MLP
